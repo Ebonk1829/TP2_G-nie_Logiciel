@@ -1,0 +1,1 @@
+ici on ne voit pas le dossier texte avec les noms dans git car on l'a déplacé.
